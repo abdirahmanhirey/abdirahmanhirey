@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I’m Abdirahman Hirey 👋
 
-<!--
-**abdirahmanhirey/abdirahmanhirey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst based in London, UK.
 
-Here are some ideas to get you started:
+I’m currently learning Excel, SQL, Python and Power BI. I enjoy cleaning datasets, identifying missing values, and documenting data-quality issues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 My Projects
+
+Retail Store Sales — Data Cleaning
+
+• Used Microsoft Excel to inspect a retail sales dataset.
+• Checked for duplicate records.
+• Identified missing values.
+• Documented data-quality issues in a cleaning log.
+
+🎯 My Goal
+
+Build a portfolio of data-cleaning projects and work towards a Junior Data Analyst role.
+
+🤝 Connect With Me
+
+GitHub: @abdirahmanhirey (https://github.com/abdirahmanhirey)
