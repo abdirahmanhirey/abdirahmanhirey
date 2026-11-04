@@ -9,6 +9,7 @@ I’m currently learning Excel, SQL, Python and Power BI. I enjoy cleaning datas
 Retail Store Sales — Data Cleaning.
 
 Employee Data Cleaning — Excel
+
 Cleaned and reviewed an employee dataset using Microsoft Excel.
 Identified missing values, repeated email addresses and unusual phone values.
 Standardised date formats and separated combined columns.
