@@ -8,18 +8,21 @@ I’m currently learning Excel, SQL, Python and Power BI. I enjoy cleaning datas
 
 Retail Store Sales — Data Cleaning.
 
-Employee Data Cleaning — Excel
+• Used Microsoft Excel to inspect a retail sales dataset.
+• Checked for duplicate records.
+• Identified missing values.
+• Documented data-quality issues in a cleaning log.
+View Project on GitHub
+Open Retail Store Sales Project (https://github.com/abdirahmanhirey/retail-store-sales-data-cleaning)
+
+
+Employee Data Cleaning — Excel.
 
 Cleaned and reviewed an employee dataset using Microsoft Excel.
 Identified missing values, repeated email addresses and unusual phone values.
 Standardised date formats and separated combined columns.
 Documented data-quality issues and cleaning decisions.
 View Project on GitHub (https://github.com/abdirahmanhirey/employee-data-cleaning-excel)
-
-• Used Microsoft Excel to inspect a retail sales dataset.
-• Checked for duplicate records.
-• Identified missing values.
-• Documented data-quality issues in a cleaning log.
 
 🎯 My Goal
 
